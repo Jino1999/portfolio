@@ -1,3 +1,4 @@
+![Portfolio Screenshot](portfolio_screenshot_placeholder.png)
 # 💼 Garapatang Busog - Developer Portfolio
 
 Welcome to my developer portfolio!  
